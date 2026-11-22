@@ -23,8 +23,8 @@ Bilgisayarlı görü (Computer Vision) alanında nesne tespiti (**YOLO26**, **YO
 | :--- | :--- | :--- |
 | **[evren-yolo-vision-kit](https://github.com/kenantabak/evren-yolo-vision-kit)** | Hugging Face üzerindeki açık `YOLO26` & `YOLO11` (`.pt` / `.onnx`) modellerini tek komutla çalıştıran saf **ONNX Runtime** / PyTorch çıkarım SDK'sı, CLI aracı ve Gradio arayüzü. | `Python` · `ONNX` · `PyTorch` · `Gradio` |
 | **[evren-yolo26-yolo11-training-suite](https://github.com/kenantabak/evren-yolo26-yolo11-training-suite)** | Trafik levhaları, İHA/hava görüntüleri, tıbbi radyoloji ve endüstriyel İSG sahnelerine özel YAML eğitim profilleri, veri ön-denetim araçları (`preflight`) ve COCO→YOLO bölücü. | `YOLO26` · `YOLO11` · `YAML` · `Pytest` |
-| **[evren-turkish-cv-datasets-catalog](https://github.com/kenantabak/evren-turkish-cv-datasets-catalog)** | EVREN üzerinde hazırlanmış 316 açık kaynaklı (`CC-BY-4.0`) bilgisayarlı görü veri setinin indeksi, arama CLI'ı ve keşif defteri (`EDA Notebook`). | `Pandas` · `Parquet` · `CLI` |
-| **[evren-yolo26-83-models-benchmark](https://github.com/kenantabak/evren-yolo26-83-models-benchmark)** | Farklı sektörlerde eğitilen 83 `PRODUCTION` modelin mimari, çözünürlük ve augmentation etkilerini inceleyen benchmark veri seti ve analiz araçları. | `Python` · `Jupyter` · `CSV/JSON` |
+| **[evren-turkish-cv-datasets-catalog](https://github.com/kenantabak/evren-turkish-cv-datasets-catalog)** | EVREN üzerinde hazırlanmış 328 açık kaynaklı (`CC-BY-4.0`) bilgisayarlı görü veri setinin indeksi, arama CLI'ı ve keşif defteri (`EDA Notebook`). | `Pandas` · `Parquet` · `CLI` |
+| **[evren-yolo26-83-models-benchmark](https://github.com/kenantabak/evren-yolo26-83-models-benchmark)** | Farklı sektörlerde eğitilen 126 `PRODUCTION` modelin mimari, çözünürlük ve augmentation etkilerini inceleyen benchmark veri seti ve analiz araçları. | `Python` · `Jupyter` · `CSV/JSON` |
 
 ---
 
