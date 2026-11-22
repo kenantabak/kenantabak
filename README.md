@@ -50,3 +50,13 @@ Tüm modeller `CC-BY-4.0` lisanslıdır ve doğrudan [`kenantabak` Hugging Face]
 - **EVREN Profilim:** [https://evren.ssyz.org.tr/users/u19979974710e](https://evren.ssyz.org.tr/users/u19979974710e)
 - **Hugging Face:** [https://huggingface.co/kenantabak](https://huggingface.co/kenantabak)
 - **İnteraktif Model & Veri Seti Gezgini:** [EVREN YOLO26 Vision Explorer](https://huggingface.co/spaces/kenantabak/EVREN-YOLO26-Vision-Explorer)
+
+### Newly Added Production Models (22 November 2026)
+
+| Model Repository | Domain | Architecture | mAP@50 | mAP@50-95 | F1 |
+|---|---|---|---:|---:|---:|
+| [kenantabak/yolo26s-knee-xray-acl-detection-tr](https://huggingface.co/kenantabak/yolo26s-knee-xray-acl-detection-tr) | Diz Röntgeninde Ön Çapraz Bağ (ACL) Bölgesi Tespiti | `yolo26s` | **99.50%** | 75.06% | 100.00% |
+| [kenantabak/yolo26s-structural-surface-crack-detection-tr](https://huggingface.co/kenantabak/yolo26s-structural-surface-crack-detection-tr) | Yüzey ve Yapısal Çatlak Tespiti (320px Hafif Model) | `yolo26s` | **99.34%** | 74.78% | 98.69% |
+| [kenantabak/yolo26s-maritime-naval-vessel-detection-tr](https://huggingface.co/kenantabak/yolo26s-maritime-naval-vessel-detection-tr) | Deniz Gözetiminde Savaş Gemisi Tespiti | `yolo26s` | **99.23%** | 80.85% | 98.46% |
+| [kenantabak/yolo26s-powerline-insulator-defect-tr](https://huggingface.co/kenantabak/yolo26s-powerline-insulator-defect-tr) | Elektrik İletim Hattı İzolatör ve Yüzey Hasarı Tespiti | `yolo26s` | **98.25%** | 76.12% | 96.95% |
+
