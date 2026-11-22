@@ -60,3 +60,13 @@ Tüm modeller `CC-BY-4.0` lisanslıdır ve doğrudan [`kenantabak` Hugging Face]
 | [kenantabak/yolo26s-maritime-naval-vessel-detection-tr](https://huggingface.co/kenantabak/yolo26s-maritime-naval-vessel-detection-tr) | Deniz Gözetiminde Savaş Gemisi Tespiti | `yolo26s` | **99.23%** | 80.85% | 98.46% |
 | [kenantabak/yolo26s-powerline-insulator-defect-tr](https://huggingface.co/kenantabak/yolo26s-powerline-insulator-defect-tr) | Elektrik İletim Hattı İzolatör ve Yüzey Hasarı Tespiti | `yolo26s` | **98.25%** | 76.12% | 96.95% |
 
+### Newly Added Open-Source Repositories & Dataset Suites (22 November 2026)
+
+- **GitHub Tools (7 Repositories):**
+  - [`kenantabak/evren-cv-dataset-quality-auditor`](https://github.com/kenantabak/evren-cv-dataset-quality-auditor) — Automated CV dataset quality & health auditing SDK (`Errno 36` filename sanitizer, `selected_class_ids` zero-val filter, bbox geometry verifier).
+  - [`kenantabak/evren-dual-verifier-auto-annotator`](https://github.com/kenantabak/evren-dual-verifier-auto-annotator) — Dual-Architecture (`YOLO26/YOLO11` Teacher + `GroundingDINO` VLM) consensus auto-annotation engine.
+- **Hugging Face Dataset Suites (10 Datasets):**
+  - [`kenantabak/evren-maritime-naval-underwater-vision-suite`](https://huggingface.co/datasets/kenantabak/evren-maritime-naval-underwater-vision-suite)
+  - [`kenantabak/evren-civil-infrastructure-energy-defect-suite`](https://huggingface.co/datasets/kenantabak/evren-civil-infrastructure-energy-defect-suite)
+  - [`kenantabak/evren-retail-logistics-warehouse-vision-suite`](https://huggingface.co/datasets/kenantabak/evren-retail-logistics-warehouse-vision-suite)
+
