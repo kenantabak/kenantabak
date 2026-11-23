@@ -23,7 +23,7 @@ Bilgisayarlı görü (Computer Vision) alanında nesne tespiti (**YOLO26**, **YO
 | :--- | :--- | :--- |
 | **[evren-yolo-vision-kit](https://github.com/kenantabak/evren-yolo-vision-kit)** | Hugging Face üzerindeki açık `YOLO26` & `YOLO11` (`.pt` / `.onnx`) modellerini tek komutla çalıştıran saf **ONNX Runtime** / PyTorch çıkarım SDK'sı, CLI aracı ve Gradio arayüzü. | `Python` · `ONNX` · `PyTorch` · `Gradio` |
 | **[evren-yolo26-yolo11-training-suite](https://github.com/kenantabak/evren-yolo26-yolo11-training-suite)** | Trafik levhaları, İHA/hava görüntüleri, tıbbi radyoloji ve endüstriyel İSG sahnelerine özel YAML eğitim profilleri, veri ön-denetim araçları (`preflight`) ve COCO→YOLO bölücü. | `YOLO26` · `YOLO11` · `YAML` · `Pytest` |
-| **[evren-turkish-cv-datasets-catalog](https://github.com/kenantabak/evren-turkish-cv-datasets-catalog)** | EVREN üzerinde hazırlanmış 328 açık kaynaklı (`CC-BY-4.0`) bilgisayarlı görü veri setinin indeksi, arama CLI'ı ve keşif defteri (`EDA Notebook`). | `Pandas` · `Parquet` · `CLI` |
+| **[evren-turkish-cv-datasets-catalog](https://github.com/kenantabak/evren-turkish-cv-datasets-catalog)** | EVREN üzerinde hazırlanmış 342 açık kaynaklı (`CC-BY-4.0`) bilgisayarlı görü veri setinin indeksi, arama CLI'ı ve keşif defteri (`EDA Notebook`). | `Pandas` · `Parquet` · `CLI` |
 | **[evren-yolo26-83-models-benchmark](https://github.com/kenantabak/evren-yolo26-83-models-benchmark)** | Farklı sektörlerde eğitilen 126 `PRODUCTION` modelin mimari, çözünürlük ve augmentation etkilerini inceleyen benchmark veri seti ve analiz araçları. | `Python` · `Jupyter` · `CSV/JSON` |
 
 ---
@@ -70,3 +70,11 @@ Tüm modeller `CC-BY-4.0` lisanslıdır ve doğrudan [`kenantabak` Hugging Face]
   - [`kenantabak/evren-civil-infrastructure-energy-defect-suite`](https://huggingface.co/datasets/kenantabak/evren-civil-infrastructure-energy-defect-suite)
   - [`kenantabak/evren-retail-logistics-warehouse-vision-suite`](https://huggingface.co/datasets/kenantabak/evren-retail-logistics-warehouse-vision-suite)
 
+---
+
+### 🔗 EVREN Open-Source Ecosystem
+- **EVREN Platform:** [evren.ssyz.org.tr/users/u19979974710e](https://evren.ssyz.org.tr/users/u19979974710e) (`342` Grade-A Datasets · `185` Models)
+- **Live Browser ONNX Demo Space:** [EVREN-Live-Object-Detection-Demo](https://huggingface.co/spaces/kenantabak/EVREN-Live-Object-Detection-Demo)
+- **Hugging Face Portfolio:** [huggingface.co/kenantabak](https://huggingface.co/kenantabak) (`19` Production Models · `10` Datasets · `4` Spaces)
+- **GitHub:** [github.com/kenantabak](https://github.com/kenantabak)
+- **Dev.to Technical Series:** [dev.to/kenantabak](https://dev.to/kenantabak)
