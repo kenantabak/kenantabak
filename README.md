@@ -2,7 +2,7 @@
 
 Bilgisayarlı görü (Computer Vision) alanında nesne tespiti (**YOLO26**, **YOLO11**) ve örnek segmentasyonu üzerine çalışan, açık kaynaklı Türkçe veri setleri ve üretime hazır model ağırlıkları (`.pt` / `.onnx`) geliştiren bir araştırmacı ve geliştiriciyim.
 
-Çalışmalarımı **[EVREN (`ssyz.org.tr`)](https://evren.ssyz.org.tr/users/u19979974710e)** platformunda geliştirip, açık ağırlıklar ve veri seti katalogları olarak **[Hugging Face (`@kenantabak`)](https://huggingface.co/kenantabak)** üzerinde paylaşıyorum.
+Çalışmalarımı **[EVREN (`ssyz.org.tr`)](https://evren.ssyz.org.tr/users/u19979974710e)** platformunda geliştirip, açık ağırlıklar ve veri seti katalogları olarak **[Hugging Face (`@kenantabak`)](https://huggingface.co/kenantabak) [![Dev.to](https://img.shields.io/badge/Dev.to-Technical_Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kenantabak)** üzerinde paylaşıyorum.
 
 ---
 
