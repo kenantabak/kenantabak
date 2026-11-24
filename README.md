@@ -31,7 +31,7 @@ Bilgisayarlı görü (*Computer Vision*) alanında nesne tespiti (**YOLO**, **DE
 | **[evren-dual-verifier-auto-annotator](https://github.com/kenantabak/evren-dual-verifier-auto-annotator)** | İkili model uzlaşısı (IoU konsensüsü) ve eksik kutu tespitiyle yüksek kesinlikli etiket doğrulama kütüphanesi. | `Python` · `Pytest` · `CI` |
 | **[evren-yolo26-yolo11-training-suite](https://github.com/kenantabak/evren-yolo26-yolo11-training-suite)** | Trafik levhaları, İHA/hava görüntüleri, tıbbi radyoloji ve endüstriyel İSG sahnelerine özel YAML eğitim profilleri, `preflight` araçları ve COCO→YOLO bölücü. | `YOLO` · `YAML` · `Pytest` |
 | **[evren-turkish-cv-datasets-catalog](https://github.com/kenantabak/evren-turkish-cv-datasets-catalog)** | EVREN üzerinde hazırlanmış **355** açık kaynaklı (`CC-BY-4.0`) bilgisayarlı görü veri setinin indeksi, arama CLI'ı ve keşif defteri. | `Pandas` · `Parquet` · `CLI` |
-| **[evren-yolo26-83-models-benchmark](https://github.com/kenantabak/evren-yolo26-83-models-benchmark)** | Farklı sektörlerde eğitilen **153+** modelin mimari, çözünürlük ve `mAP@50` / `mAP@50-95` / `F1` karşılaştırma verileri. | `Python` · `Jupyter` · `JSON/CSV` |
+| **[evren-yolo26-83-models-benchmark](https://github.com/kenantabak/evren-yolo26-83-models-benchmark)** | Farklı sektörlerde eğitilen **139+** modelin mimari, çözünürlük ve `mAP@50` / `mAP@50-95` / `F1` karşılaştırma verileri. | `Python` · `Jupyter` · `JSON/CSV` |
 
 ---
 
