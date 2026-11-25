@@ -41,3 +41,9 @@ Bilgisayarlı görü (*Computer Vision*) alanında nesne tespiti (**YOLO**, **DE
 - 🚀 **[EVREN Vision Explorer](https://huggingface.co/spaces/kenantabak/EVREN-YOLO26-Vision-Explorer)** — Tüm veri setleri ve model benchmark'ları için etkileşimli keşif arayüzü.
 - 🗂️ **[EVREN 367 Grade-A Veri Seti Kataloğu](https://huggingface.co/spaces/kenantabak/EVREN-316-Datasets-Catalog)** — Canlı filtrelenebilir veri seti kataloğu (`3.37M+` görsel).
 - ⚙️ **[EVREN Hiperparametre Danışmanı](https://huggingface.co/spaces/kenantabak/EVREN-YOLO26-Hyperparameter-Advisor)** — Alan ve nesne boyutuna göre eğitim reçetesi önerici.
+
+### Multi-Architecture CV & ONNX Benchmark (2026 Flagship)
+- **GitHub Code & Unified ONNX Decoder:** [evren-multiarch-cv-onnx-benchmark](https://github.com/kenantabak/evren-multiarch-cv-onnx-benchmark) — 24 controlled runs across **YOLO26, YOLO11, YOLOv9c, RT-DETR-L, D-FINE-M, RF-DETR-Base** + 4-thread ONNX Runtime CPU benchmarks + `pytest` CI.
+- **Visually Audited Multi-Arch HF Models:** [RF-DETR-Base Skin Lesion (81.17% mAP@50)](https://huggingface.co/kenantabak/rfdetr-base-skin-lesion-detection-tr) · [D-FINE-M Traffic Signs 49 (75 MB / 336 ms CPU)](https://huggingface.co/kenantabak/dfine-m-traffic-signs-49-tr) · [YOLOv9c Traffic Signs 49 (87.94% mAP@50)](https://huggingface.co/kenantabak/yolov9c-traffic-signs-49-tr)
+- **Native Parquet HF Datasets:** [Multi-Arch CV & ONNX Benchmark](https://huggingface.co/datasets/kenantabak/evren-multiarch-cv-onnx-benchmark) · [L929 Phase-Contrast Microscopy (630 Images, 26.8K Boxes)](https://huggingface.co/datasets/kenantabak/evren-l929-microscopy-cell-detection-tr)
+- **Technical Writing (Dev.to):** [dev.to/kenantabak](https://dev.to/kenantabak) — Turkish computer vision engineering articles.
