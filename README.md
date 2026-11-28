@@ -5,7 +5,7 @@ Bilgisayarlı görü (*Computer Vision*) alanında nesne tespiti (**YOLO**, **DE
 Çalışmalarımı **[EVREN (`ssyz.org.tr`)](https://evren.ssyz.org.tr/users/u19979974710e)** platformunda geliştiriyor; açık ağırlık, veri seti ve canlı demoları **[Hugging Face (`@kenantabak`)](https://huggingface.co/kenantabak)** üzerinde, teknik makale serilerimi ise **[Dev.to (`@kenantabak`)](https://dev.to/kenantabak)** üzerinde paylaşıyorum.
 
 [![EVREN](https://img.shields.io/badge/EVREN-Profile-10B981?style=for-the-badge)](https://evren.ssyz.org.tr/users/u19979974710e)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-25_Models_·_14_Datasets_·_4_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/kenantabak)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-25_Models_·_15_Datasets_·_4_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/kenantabak)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Technical_Series-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kenantabak)
 [![Live ONNX Demo](https://img.shields.io/badge/Live_Demo-Browser_ONNX-6366F1?style=for-the-badge)](https://huggingface.co/spaces/kenantabak/EVREN-Live-Object-Detection-Demo)
 
@@ -30,8 +30,8 @@ Bilgisayarlı görü (*Computer Vision*) alanında nesne tespiti (**YOLO**, **DE
 | **[evren-cv-dataset-quality-auditor](https://github.com/kenantabak/evren-cv-dataset-quality-auditor)** | Büyük ölçekli CV veri setlerinde bozuk/aşırı kutu, `Errno 36` dosya adı, sıfır örnekli sınıf ve kalite puanı denetimi yapan Python paketi. | `Python` · `Pytest` · `CI` |
 | **[evren-dual-verifier-auto-annotator](https://github.com/kenantabak/evren-dual-verifier-auto-annotator)** | İkili model uzlaşısı (IoU konsensüsü) ve eksik kutu tespitiyle yüksek kesinlikli etiket doğrulama kütüphanesi. | `Python` · `Pytest` · `CI` |
 | **[evren-yolo26-yolo11-training-suite](https://github.com/kenantabak/evren-yolo26-yolo11-training-suite)** | Trafik levhaları, İHA/hava görüntüleri, tıbbi radyoloji ve endüstriyel İSG sahnelerine özel YAML eğitim profilleri, `preflight` araçları ve COCO→YOLO bölücü. | `YOLO` · `YAML` · `Pytest` |
-| **[evren-turkish-cv-datasets-catalog](https://github.com/kenantabak/evren-turkish-cv-datasets-catalog)** | EVREN üzerinde hazırlanmış **391** açık kaynaklı (`CC-BY-4.0`) bilgisayarlı görü veri setinin indeksi, arama CLI'ı ve keşif defteri. | `Pandas` · `Parquet` · `CLI` |
-| **[evren-yolo26-83-models-benchmark](https://github.com/kenantabak/evren-yolo26-83-models-benchmark)** | Farklı sektörlerde eğitilen **183+** modelin mimari, çözünürlük ve `mAP@50` / `mAP@50-95` / `F1` karşılaştırma verileri. | `Python` · `Jupyter` · `JSON/CSV` |
+| **[evren-turkish-cv-datasets-catalog](https://github.com/kenantabak/evren-turkish-cv-datasets-catalog)** | EVREN üzerinde hazırlanmış **405** açık kaynaklı (`CC-BY-4.0`) bilgisayarlı görü veri setinin indeksi, arama CLI'ı ve keşif defteri. | `Pandas` · `Parquet` · `CLI` |
+| **[evren-yolo26-83-models-benchmark](https://github.com/kenantabak/evren-yolo26-83-models-benchmark)** | Farklı sektörlerde eğitilen **193+** modelin mimari, çözünürlük ve `mAP@50` / `mAP@50-95` / `F1` karşılaştırma verileri. | `Python` · `Jupyter` · `JSON/CSV` |
 
 ---
 
@@ -39,7 +39,7 @@ Bilgisayarlı görü (*Computer Vision*) alanında nesne tespiti (**YOLO**, **DE
 
 - 🎯 **[EVREN Live Object Detection Demo (Browser ONNX)](https://huggingface.co/spaces/kenantabak/EVREN-Live-Object-Detection-Demo)** — Sunucusuz, doğrudan tarayıcıda WebAssembly ile çalışan canlı nesne tespiti demosu.
 - 🚀 **[EVREN Vision Explorer](https://huggingface.co/spaces/kenantabak/EVREN-YOLO26-Vision-Explorer)** — Tüm veri setleri ve model benchmark'ları için etkileşimli keşif arayüzü.
-- 🗂️ **[EVREN 391 Grade-A Veri Seti Kataloğu](https://huggingface.co/spaces/kenantabak/EVREN-316-Datasets-Catalog)** — Canlı filtrelenebilir veri seti kataloğu (`3.37M+` görsel).
+- 🗂️ **[EVREN 405 Grade-A Veri Seti Kataloğu](https://huggingface.co/spaces/kenantabak/EVREN-316-Datasets-Catalog)** — Canlı filtrelenebilir veri seti kataloğu (`3.37M+` görsel).
 - ⚙️ **[EVREN Hiperparametre Danışmanı](https://huggingface.co/spaces/kenantabak/EVREN-YOLO26-Hyperparameter-Advisor)** — Alan ve nesne boyutuna göre eğitim reçetesi önerici.
 
 ### Multi-Architecture CV & ONNX Benchmark (2026 Flagship)
