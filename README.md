@@ -5,7 +5,7 @@ Bilgisayarlı görü (*Computer Vision*) alanında nesne tespiti (**YOLO**, **DE
 Çalışmalarımı **[EVREN (`ssyz.org.tr`)](https://evren.ssyz.org.tr/users/u19979974710e)** platformunda geliştiriyor; açık ağırlık, veri seti ve canlı demoları **[Hugging Face (`@kenantabak`)](https://huggingface.co/kenantabak)** üzerinde, teknik makale serilerimi ise **[Dev.to (`@kenantabak`)](https://dev.to/kenantabak)** üzerinde paylaşıyorum.
 
 [![EVREN](https://img.shields.io/badge/EVREN-Profile-10B981?style=for-the-badge)](https://evren.ssyz.org.tr/users/u19979974710e)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-25_Models_·_15_Datasets_·_4_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/kenantabak)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-27_Models_·_17_Datasets_·_4_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/kenantabak)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Technical_Series-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kenantabak)
 [![Live ONNX Demo](https://img.shields.io/badge/Live_Demo-Browser_ONNX-6366F1?style=for-the-badge)](https://huggingface.co/spaces/kenantabak/EVREN-Live-Object-Detection-Demo)
 
